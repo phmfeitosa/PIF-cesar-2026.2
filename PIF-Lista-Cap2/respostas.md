@@ -3,6 +3,7 @@ São operadores aritméticos apenas a soma (+), o operador de módulo (%). O ope
 ***
 ***
 
+
 **QUESTÃO 02**
 *(A)* Sim, uma expressão geralmente compara e avalia valores numéricos.
 *(B)* Uma expressão pode ocorrer fora de uma função, podendo, por exemplo, ser atribuída antes da mesma.
@@ -14,6 +15,7 @@ Portanto: Alternativa *A*.
 ***
 ***
 
+
 **QUESTÃO 03**
 *(A)* x = (2+1)*6 = 18  =>  x = 18
 *(B)* y = (5+1)/2*3 = 1  =>  y = 1
@@ -23,10 +25,12 @@ Portanto: Alternativa *A*.
 ***
 ***
 
+
 **QUESTÃO 04**
 A reescrita da expressão abaixo é: numero += 1
 ***
 ***
+
 
 **QUESTÃO 05**
 Não existe uma instrução com três símbolos de adição, desta maneira o compilador faz uma separação por tokens isolados. Ou seja, ele analisa quais são os comandos possíveis, e desta forma, executa uma operação de pós-incrementação em x (por meio de x++), e em seguida, realiza a adição de x incrementado com y (x+y).
@@ -34,6 +38,7 @@ Não existe uma instrução com três símbolos de adição, desta maneira o com
 *OBS*.: Caso façamos a operação x++++y, ou até mesmo x++y, obteriamos um erro de sintaxe, pois o compilador não conseguiria realizar a separação dos símbolos de adição em tokens isolados (por exemplo, no caso de *x++y* ficaríamos com *x++, seguido de y*)
 ***
 ***
+
 
 **QUESTÃO 06**
 *(A)* a += b + c  =>  a = 6
@@ -44,10 +49,12 @@ Não existe uma instrução com três símbolos de adição, desta maneira o com
 ***
 ***
 
+
 **QUESTÃO 07**
 Operadores Relacionais em programação são operadores usados para a comparação entre valores diferentes, por exemplo, estipular uma instrução para quando o valor base ultrapassar uma marca, portanto: Alternativa *B*.
 ***
 ***
+
 
 **QUESTÃO 08**
 Das expressões abaixo, as corretas são as alternativas *A* (a == 'A'), *E* (-a = b), *G* (-a == b), *I* (-85.2 >= x * 45.3 + 32.34), *J* (a + b + c == -x * -y) e *K* ('a' + 'b' != 16 + 'w').
@@ -55,6 +62,7 @@ Das expressões abaixo, as corretas são as alternativas *A* (a == 'A'), *E* (-a
 *OBS*.: Por mais que faça sentido usar (-a = b) MATEMÁTICAMENTE, para o compilador, o sinal de igualdade (=) é um operador de atribuição, e não um operador relacional. Para a comparação de valores, usar o sinal de dupla igualdade (==).
 ***
 ***
+
 
 **QUESTÃO 09**
 *(A)* Valor Lógico Falso.
@@ -67,12 +75,14 @@ Das expressões abaixo, as corretas são as alternativas *A* (a == 'A'), *E* (-a
 ***
 ***
 
+
 **QUESTÃO 10**
 Verdadeiro. A ordem de precedência faz com que a expressão seja lida: k = (j == 3). 
 Como apenas j foi declarado, temos: k = (3 == 3). E isso é uma sentença verdadeira. 
 Em outras palavras: k = (j == 3)  =>  k = (3 == 3)  =>  k = (V).
 ***
 ***
+
 
 **QUESTÃO 11**
 A instrução 
