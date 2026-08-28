@@ -5,11 +5,11 @@ São operadores aritméticos apenas a soma (+), o operador de módulo (%). O ope
 
 
 **QUESTÃO 02**
-*(A)* Sim, uma expressão geralmente compara e avalia valores numéricos.
-*(B)* Uma expressão pode ocorrer fora de uma função, podendo, por exemplo, ser atribuída antes da mesma.
-*(C)* Uma expressão não precisa necessariamente ser parte de uma instrução, uma vez que existem diferença fundamentais entre ambas (por exemplo, uma expressão não executa uma ação diretamente, enquanto uma instrução sim).
-*(D)* Com certeza não estamos falando de psicologia.
-*(E)* Uma expressão não precisa necessariamente incluir números inteiros, podendo incluir números reais, por exemplo.
+(A) Sim, uma expressão geralmente compara e avalia valores numéricos.
+(B) Uma expressão pode ocorrer fora de uma função, podendo, por exemplo, ser atribuída antes da mesma.
+(C) Uma expressão não precisa necessariamente ser parte de uma instrução, uma vez que existem diferença fundamentais entre ambas (por exemplo, uma expressão não executa uma ação diretamente, enquanto uma instrução sim).
+(D) Com certeza não estamos falando de psicologia.
+(E) Uma expressão não precisa necessariamente incluir números inteiros, podendo incluir números reais, por exemplo.
 
 Portanto: Alternativa *A*.
 ***
@@ -17,11 +17,11 @@ Portanto: Alternativa *A*.
 
 
 **QUESTÃO 03**
-*(A)* x = (2+1)*6 = 18  =>  x = 18
-*(B)* y = (5+1)/2*3 = 1  =>  y = 1
-*(C)* i = j = (2+3)/4 = 5/4  =>  i = 5/4
-*(D)* a = 3+2*(b=7/2)  =>  a = 10
-*(E)* c = 5+10%4/2 = 6  =>  c = 6
+(A) x = (2+1)*6 = 18  =>  x = 18
+(B) y = (5+1)/2*3 = 1  =>  y = 1
+(C) i = j = (2+3)/4 = 5/4  =>  i = 5/4
+(D) a = 3+2*(b=7/2)  =>  a = 10
+(E) c = 5+10%4/2 = 6  =>  c = 6
 ***
 ***
 
@@ -41,11 +41,11 @@ Não existe uma instrução com três símbolos de adição, desta maneira o com
 
 
 **QUESTÃO 06**
-*(A)* a += b + c  =>  a = 6
-*(B)* b *= c = d + 2  =>  b = 12
-*(C)* d %= a + a + a  =>  d = 1
-*(D)* d -= c -= b -= a  =>  d = 2
-*(E)* a += b += c += 7  =>  a = 13
+(A) a += b + c  =>  a = 6
+(B) b *= c = d + 2  =>  b = 12
+(C) d %= a + a + a  =>  d = 1
+(D) d -= c -= b -= a  =>  d = 2
+(E) a += b += c += 7  =>  a = 13
 ***
 ***
 
@@ -65,13 +65,13 @@ Das expressões abaixo, as corretas são as alternativas *A* (a == 'A'), *E* (-a
 
 
 **QUESTÃO 09**
-*(A)* Valor Lógico Falso.
-*(B)* Valor Lógico Verdadeiro.
-*(C)* Valor Lógico Falso.
-*(D)* Valor Lógico Falso.
-*(E)* Valor Lógico Falso.
-*(F)* Valor Lógico Verdadeiro.
-*(G)* Valor Lógico Falso.
+(A) Valor Lógico Falso.
+(B) Valor Lógico Verdadeiro.
+(C) Valor Lógico Falso.
+(D) Valor Lógico Falso.
+(E) Valor Lógico Falso.
+(F) Valor Lógico Verdadeiro.
+(G) Valor Lógico Falso.
 ***
 ***
 
