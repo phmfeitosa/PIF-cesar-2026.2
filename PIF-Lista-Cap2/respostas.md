@@ -17,10 +17,10 @@ Portanto: Alternativa *A*.
 
 
 **QUESTÃO 03**   
-(A) x = (2+1)*6 = 18  =>  x = 18   
-(B) y = (5+1)/2*3 = 1  =>  y = 1   
+(A) x = (2+1)\*6 = 18  =>  x = 18   
+(B) y = (5+1)/2\*3 = 1  =>  y = 1   
 (C) i = j = (2+3)/4 = 5/4  =>  i = 5/4   
-(D) a = 3+2*(b=7/2)  =>  a = 10   
+(D) a = 3+2\*(b=7/2)  =>  a = 10   
 (E) c = 5+10%4/2 = 6  =>  c = 6   
 ***
 ***
@@ -57,7 +57,13 @@ Operadores Relacionais em programação são operadores usados para a comparaç�
 
 
 **QUESTÃO 08**   
-Das expressões abaixo, as corretas são as alternativas *A* (a == 'A'), *E* (-a = b), *G* (-a == b), *I* (-85.2 >= x * 45.3 + 32.34), *J* (a + b + c == -x * -y) e *K* ('a' + 'b' != 16 + 'w').   
+Das expressões abaixo, as corretas são as alternativas:   
+*A* (a == 'A')   
+*E* (-a = b)   
+*G* (-a == b)   
+*I* (-85.2 >= x * 45.3 + 32.34)   
+*J* (a + b + c == -x * -y)   
+*K* ('a' + 'b' != 16 + 'w')   
 
 *OBS*.: Por mais que faça sentido usar (-a = b) MATEMÁTICAMENTE, para o compilador, o sinal de igualdade (=) é um operador de atribuição, e não um operador relacional. Para a comparação de valores, usar o sinal de dupla igualdade (==).   
 ***
