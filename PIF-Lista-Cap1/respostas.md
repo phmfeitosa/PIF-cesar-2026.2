@@ -1,14 +1,15 @@
 **QUESTÃO 04**   
 CÓDIGO EXEMPLO DA QUESTÃO 04   
-#include <stdio.h> (sem erros)   
-#include <stdlib.h>; (colocou ; após o >)   
-
-int main{}(inverteu o uso de {} e () na função main)   
-(   
-    printf( Existem %d semanas no ano.,52); (faltou colocar aspas duplas no texto e colocar o ; no final)   
-    cout << endl; (utilizou cout, usado em C++, ao invés de printf, típico de linguagem C)   
-    return 0;   
-)   
+***
+    #include <stdio.h> (sem erros)   
+    #include <stdlib.h>; (colocou ; após o >)   
+    
+    int main{}(inverteu o uso de {} e () na função main)   
+    (   
+        printf( Existem %d semanas no ano.,52); (faltou colocar aspas duplas no texto e colocar o ; no final)   
+        cout << endl; (utilizou cout, usado em C++, ao invés de printf, típico de linguagem C)   
+        return 0;   
+    )   
 ***
 
 
@@ -22,11 +23,12 @@ O código exemplo da questão 04 utilizou cout, que é usado em C++, ao invés d
 
 **QUESTÃO 05**   
 CÓDIGO EXEMPLO DA QUESTÃO 05   
-main()   
-{   
-    printf("Linguagem C");   
-    system("pause");   
-}   
+***
+    main()   
+    {   
+        printf("Linguagem C");   
+        system("pause");   
+    }   
 ***
 
 
@@ -38,13 +40,14 @@ Por fim o código exemplo não colocou o return 0;
 
 
 **QUESTÃO 06**   
-CÓDIGO EXEMPLO DA QUESTÃO 06   
-main()   
-{   
-    int a=1; b=2; c=3;   
-    printf("Os números são: %d %d %d\n", a, b, c, d);   
-    system("pause");   
-}   
+CÓDIGO EXEMPLO DA QUESTÃO 06  
+***
+    main()   
+    {   
+        int a=1; b=2; c=3;   
+        printf("Os números são: %d %d %d\n", a, b, c, d);   
+        system("pause");   
+    }   
 ***
 
 No código acima, faltou a inclusão de ambas as bibliotecas: <stdio.h> e <stdlib.h>.    
